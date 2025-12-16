@@ -1,0 +1,8 @@
+{
+  "name": "Bath & Care",
+  "description": "Faça uma adaptação desta cópia para que ela fique genérica e que eu possa mostrar para os petshops para tentar vender a aplicação pra eles",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
